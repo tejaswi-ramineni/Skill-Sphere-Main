@@ -36,13 +36,12 @@ Skill Sphere is a modern, AI-powered learning platform that helps users create, 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 15, React 18, TypeScript
+- **Frontend**: Next.js 15, React 18, Javascript
 - **Styling**: Tailwind CSS 4, shadcn/ui, Radix UI
 - **Authentication**: Clerk
 - **Database**: Neon (PostgreSQL), Drizzle ORM
 - **AI Integration**: Google Generative AI
 - **Content**: React Markdown, React YouTube
-- **UI Components**: Lucide React, Sonner (toasts)
 
 ## ✅ Getting Started
 
